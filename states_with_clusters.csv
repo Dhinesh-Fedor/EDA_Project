@@ -1,0 +1,737 @@
+Year,State,Cluster,Crime Cluster Label
+2001,ANDHRA PRADESH,0,High Crime
+2001,ARUNACHAL PRADESH,1,Low Crime
+2001,ASSAM,2,Moderate Crime
+2001,BIHAR,2,Moderate Crime
+2001,CHHATTISGARH,2,Moderate Crime
+2001,GOA,1,Low Crime
+2001,GUJARAT,2,Moderate Crime
+2001,HARYANA,2,Moderate Crime
+2001,HIMACHAL PRADESH,1,Low Crime
+2001,JAMMU & KASHMIR,1,Low Crime
+2001,JHARKHAND,1,Low Crime
+2001,KARNATAKA,2,Moderate Crime
+2001,KERALA,1,Low Crime
+2001,MADHYA PRADESH,0,High Crime
+2001,MAHARASHTRA,0,High Crime
+2001,MANIPUR,1,Low Crime
+2001,MEGHALAYA,1,Low Crime
+2001,MIZORAM,1,Low Crime
+2001,NAGALAND,1,Low Crime
+2001,ODISHA,2,Moderate Crime
+2001,PUNJAB,1,Low Crime
+2001,RAJASTHAN,2,Moderate Crime
+2001,SIKKIM,1,Low Crime
+2001,TAMIL NADU,2,Moderate Crime
+2001,TRIPURA,1,Low Crime
+2001,UTTAR PRADESH,0,High Crime
+2001,UTTARAKHAND,1,Low Crime
+2001,WEST BENGAL,2,Moderate Crime
+2001,A & N ISLANDS,1,Low Crime
+2001,CHANDIGARH,1,Low Crime
+2001,D & N HAVELI,1,Low Crime
+2001,DAMAN & DIU,1,Low Crime
+2001,LAKSHADWEEP,1,Low Crime
+2001,PUDUCHERRY,1,Low Crime
+2002,ANDHRA PRADESH,0,High Crime
+2002,ARUNACHAL PRADESH,1,Low Crime
+2002,ASSAM,2,Moderate Crime
+2002,BIHAR,2,Moderate Crime
+2002,CHHATTISGARH,2,Moderate Crime
+2002,GOA,1,Low Crime
+2002,GUJARAT,2,Moderate Crime
+2002,HARYANA,2,Moderate Crime
+2002,HIMACHAL PRADESH,1,Low Crime
+2002,JAMMU & KASHMIR,1,Low Crime
+2002,JHARKHAND,1,Low Crime
+2002,KARNATAKA,2,Moderate Crime
+2002,KERALA,1,Low Crime
+2002,MADHYA PRADESH,0,High Crime
+2002,MAHARASHTRA,0,High Crime
+2002,MANIPUR,1,Low Crime
+2002,MEGHALAYA,1,Low Crime
+2002,MIZORAM,1,Low Crime
+2002,NAGALAND,1,Low Crime
+2002,ODISHA,2,Moderate Crime
+2002,PUNJAB,1,Low Crime
+2002,RAJASTHAN,2,Moderate Crime
+2002,SIKKIM,1,Low Crime
+2002,TAMIL NADU,2,Moderate Crime
+2002,TRIPURA,1,Low Crime
+2002,UTTAR PRADESH,0,High Crime
+2002,UTTARAKHAND,1,Low Crime
+2002,WEST BENGAL,2,Moderate Crime
+2002,A & N ISLANDS,1,Low Crime
+2002,CHANDIGARH,1,Low Crime
+2002,D & N HAVELI,1,Low Crime
+2002,DAMAN & DIU,1,Low Crime
+2002,LAKSHADWEEP,1,Low Crime
+2002,PUDUCHERRY,1,Low Crime
+2003,ANDHRA PRADESH,0,High Crime
+2003,ARUNACHAL PRADESH,1,Low Crime
+2003,ASSAM,2,Moderate Crime
+2003,BIHAR,2,Moderate Crime
+2003,CHHATTISGARH,1,Low Crime
+2003,GOA,1,Low Crime
+2003,GUJARAT,2,Moderate Crime
+2003,HARYANA,2,Moderate Crime
+2003,HIMACHAL PRADESH,1,Low Crime
+2003,JAMMU & KASHMIR,1,Low Crime
+2003,JHARKHAND,1,Low Crime
+2003,KARNATAKA,1,Low Crime
+2003,KERALA,1,Low Crime
+2003,MADHYA PRADESH,0,High Crime
+2003,MAHARASHTRA,0,High Crime
+2003,MANIPUR,1,Low Crime
+2003,MEGHALAYA,1,Low Crime
+2003,MIZORAM,1,Low Crime
+2003,NAGALAND,1,Low Crime
+2003,ODISHA,2,Moderate Crime
+2003,PUNJAB,1,Low Crime
+2003,RAJASTHAN,2,Moderate Crime
+2003,SIKKIM,1,Low Crime
+2003,TAMIL NADU,2,Moderate Crime
+2003,TRIPURA,1,Low Crime
+2003,UTTAR PRADESH,2,Moderate Crime
+2003,UTTARAKHAND,1,Low Crime
+2003,WEST BENGAL,2,Moderate Crime
+2003,A & N ISLANDS,1,Low Crime
+2003,CHANDIGARH,1,Low Crime
+2003,D & N HAVELI,1,Low Crime
+2003,DAMAN & DIU,1,Low Crime
+2003,LAKSHADWEEP,1,Low Crime
+2003,PUDUCHERRY,1,Low Crime
+2004,ANDHRA PRADESH,0,High Crime
+2004,ARUNACHAL PRADESH,1,Low Crime
+2004,ASSAM,2,Moderate Crime
+2004,BIHAR,2,Moderate Crime
+2004,CHHATTISGARH,2,Moderate Crime
+2004,GOA,1,Low Crime
+2004,GUJARAT,2,Moderate Crime
+2004,HARYANA,2,Moderate Crime
+2004,HIMACHAL PRADESH,1,Low Crime
+2004,JAMMU & KASHMIR,1,Low Crime
+2004,JHARKHAND,1,Low Crime
+2004,KARNATAKA,2,Moderate Crime
+2004,KERALA,2,Moderate Crime
+2004,MADHYA PRADESH,0,High Crime
+2004,MAHARASHTRA,0,High Crime
+2004,MANIPUR,1,Low Crime
+2004,MEGHALAYA,1,Low Crime
+2004,MIZORAM,1,Low Crime
+2004,NAGALAND,1,Low Crime
+2004,ODISHA,2,Moderate Crime
+2004,PUNJAB,1,Low Crime
+2004,RAJASTHAN,2,Moderate Crime
+2004,SIKKIM,1,Low Crime
+2004,TAMIL NADU,2,Moderate Crime
+2004,TRIPURA,1,Low Crime
+2004,UTTAR PRADESH,0,High Crime
+2004,UTTARAKHAND,1,Low Crime
+2004,WEST BENGAL,2,Moderate Crime
+2004,A & N ISLANDS,1,Low Crime
+2004,CHANDIGARH,1,Low Crime
+2004,D & N HAVELI,1,Low Crime
+2004,DAMAN & DIU,1,Low Crime
+2004,LAKSHADWEEP,1,Low Crime
+2004,PUDUCHERRY,1,Low Crime
+2005,ANDHRA PRADESH,0,High Crime
+2005,ARUNACHAL PRADESH,1,Low Crime
+2005,ASSAM,2,Moderate Crime
+2005,BIHAR,2,Moderate Crime
+2005,CHHATTISGARH,2,Moderate Crime
+2005,GOA,1,Low Crime
+2005,GUJARAT,2,Moderate Crime
+2005,HARYANA,2,Moderate Crime
+2005,HIMACHAL PRADESH,1,Low Crime
+2005,JAMMU & KASHMIR,1,Low Crime
+2005,JHARKHAND,1,Low Crime
+2005,KARNATAKA,2,Moderate Crime
+2005,KERALA,2,Moderate Crime
+2005,MADHYA PRADESH,0,High Crime
+2005,MAHARASHTRA,0,High Crime
+2005,MANIPUR,1,Low Crime
+2005,MEGHALAYA,1,Low Crime
+2005,MIZORAM,1,Low Crime
+2005,NAGALAND,1,Low Crime
+2005,ODISHA,2,Moderate Crime
+2005,PUNJAB,1,Low Crime
+2005,RAJASTHAN,2,Moderate Crime
+2005,SIKKIM,1,Low Crime
+2005,TAMIL NADU,2,Moderate Crime
+2005,TRIPURA,1,Low Crime
+2005,UTTAR PRADESH,0,High Crime
+2005,UTTARAKHAND,1,Low Crime
+2005,WEST BENGAL,2,Moderate Crime
+2005,A & N ISLANDS,1,Low Crime
+2005,CHANDIGARH,1,Low Crime
+2005,D & N HAVELI,1,Low Crime
+2005,DAMAN & DIU,1,Low Crime
+2005,LAKSHADWEEP,1,Low Crime
+2005,PUDUCHERRY,1,Low Crime
+2006,ANDHRA PRADESH,0,High Crime
+2006,ARUNACHAL PRADESH,1,Low Crime
+2006,ASSAM,2,Moderate Crime
+2006,BIHAR,2,Moderate Crime
+2006,CHHATTISGARH,2,Moderate Crime
+2006,GOA,1,Low Crime
+2006,GUJARAT,2,Moderate Crime
+2006,HARYANA,2,Moderate Crime
+2006,HIMACHAL PRADESH,1,Low Crime
+2006,JAMMU & KASHMIR,1,Low Crime
+2006,JHARKHAND,2,Moderate Crime
+2006,KARNATAKA,2,Moderate Crime
+2006,KERALA,2,Moderate Crime
+2006,MADHYA PRADESH,0,High Crime
+2006,MAHARASHTRA,0,High Crime
+2006,MANIPUR,1,Low Crime
+2006,MEGHALAYA,1,Low Crime
+2006,MIZORAM,1,Low Crime
+2006,NAGALAND,1,Low Crime
+2006,ODISHA,2,Moderate Crime
+2006,PUNJAB,1,Low Crime
+2006,RAJASTHAN,2,Moderate Crime
+2006,SIKKIM,1,Low Crime
+2006,TAMIL NADU,2,Moderate Crime
+2006,TRIPURA,1,Low Crime
+2006,UTTAR PRADESH,0,High Crime
+2006,UTTARAKHAND,1,Low Crime
+2006,WEST BENGAL,2,Moderate Crime
+2006,A & N ISLANDS,1,Low Crime
+2006,CHANDIGARH,1,Low Crime
+2006,D & N HAVELI,1,Low Crime
+2006,DAMAN & DIU,1,Low Crime
+2006,LAKSHADWEEP,1,Low Crime
+2006,PUDUCHERRY,1,Low Crime
+2007,ANDHRA PRADESH,0,High Crime
+2007,ARUNACHAL PRADESH,1,Low Crime
+2007,ASSAM,2,Moderate Crime
+2007,BIHAR,2,Moderate Crime
+2007,CHHATTISGARH,2,Moderate Crime
+2007,GOA,1,Low Crime
+2007,GUJARAT,2,Moderate Crime
+2007,HARYANA,2,Moderate Crime
+2007,HIMACHAL PRADESH,1,Low Crime
+2007,JAMMU & KASHMIR,1,Low Crime
+2007,JHARKHAND,2,Moderate Crime
+2007,KARNATAKA,2,Moderate Crime
+2007,KERALA,2,Moderate Crime
+2007,MADHYA PRADESH,0,High Crime
+2007,MAHARASHTRA,0,High Crime
+2007,MANIPUR,1,Low Crime
+2007,MEGHALAYA,1,Low Crime
+2007,MIZORAM,1,Low Crime
+2007,NAGALAND,1,Low Crime
+2007,ODISHA,2,Moderate Crime
+2007,PUNJAB,1,Low Crime
+2007,RAJASTHAN,0,High Crime
+2007,SIKKIM,1,Low Crime
+2007,TAMIL NADU,2,Moderate Crime
+2007,TRIPURA,1,Low Crime
+2007,UTTAR PRADESH,0,High Crime
+2007,UTTARAKHAND,1,Low Crime
+2007,WEST BENGAL,0,High Crime
+2007,A & N ISLANDS,1,Low Crime
+2007,CHANDIGARH,1,Low Crime
+2007,D & N HAVELI,1,Low Crime
+2007,DAMAN & DIU,1,Low Crime
+2007,LAKSHADWEEP,1,Low Crime
+2007,PUDUCHERRY,1,Low Crime
+2008,ANDHRA PRADESH,0,High Crime
+2008,ARUNACHAL PRADESH,1,Low Crime
+2008,ASSAM,2,Moderate Crime
+2008,BIHAR,2,Moderate Crime
+2008,CHHATTISGARH,2,Moderate Crime
+2008,GOA,1,Low Crime
+2008,GUJARAT,2,Moderate Crime
+2008,HARYANA,2,Moderate Crime
+2008,HIMACHAL PRADESH,1,Low Crime
+2008,JAMMU & KASHMIR,1,Low Crime
+2008,JHARKHAND,2,Moderate Crime
+2008,KARNATAKA,2,Moderate Crime
+2008,KERALA,2,Moderate Crime
+2008,MADHYA PRADESH,0,High Crime
+2008,MAHARASHTRA,0,High Crime
+2008,MANIPUR,1,Low Crime
+2008,MEGHALAYA,1,Low Crime
+2008,MIZORAM,1,Low Crime
+2008,NAGALAND,1,Low Crime
+2008,ODISHA,2,Moderate Crime
+2008,PUNJAB,1,Low Crime
+2008,RAJASTHAN,0,High Crime
+2008,SIKKIM,1,Low Crime
+2008,TAMIL NADU,2,Moderate Crime
+2008,TRIPURA,1,Low Crime
+2008,UTTAR PRADESH,0,High Crime
+2008,UTTARAKHAND,1,Low Crime
+2008,WEST BENGAL,0,High Crime
+2008,A & N ISLANDS,1,Low Crime
+2008,CHANDIGARH,1,Low Crime
+2008,D & N HAVELI,1,Low Crime
+2008,DAMAN & DIU,1,Low Crime
+2008,LAKSHADWEEP,1,Low Crime
+2008,PUDUCHERRY,1,Low Crime
+2009,ANDHRA PRADESH,0,High Crime
+2009,ARUNACHAL PRADESH,1,Low Crime
+2009,ASSAM,2,Moderate Crime
+2009,BIHAR,2,Moderate Crime
+2009,CHHATTISGARH,2,Moderate Crime
+2009,GOA,1,Low Crime
+2009,GUJARAT,2,Moderate Crime
+2009,HARYANA,2,Moderate Crime
+2009,HIMACHAL PRADESH,1,Low Crime
+2009,JAMMU & KASHMIR,1,Low Crime
+2009,JHARKHAND,2,Moderate Crime
+2009,KARNATAKA,2,Moderate Crime
+2009,KERALA,2,Moderate Crime
+2009,MADHYA PRADESH,0,High Crime
+2009,MAHARASHTRA,0,High Crime
+2009,MANIPUR,1,Low Crime
+2009,MEGHALAYA,1,Low Crime
+2009,MIZORAM,1,Low Crime
+2009,NAGALAND,1,Low Crime
+2009,ODISHA,2,Moderate Crime
+2009,PUNJAB,1,Low Crime
+2009,RAJASTHAN,0,High Crime
+2009,SIKKIM,1,Low Crime
+2009,TAMIL NADU,2,Moderate Crime
+2009,TRIPURA,1,Low Crime
+2009,UTTAR PRADESH,0,High Crime
+2009,UTTARAKHAND,1,Low Crime
+2009,WEST BENGAL,0,High Crime
+2009,A & N ISLANDS,1,Low Crime
+2009,CHANDIGARH,1,Low Crime
+2009,D & N HAVELI,1,Low Crime
+2009,DAMAN & DIU,1,Low Crime
+2009,LAKSHADWEEP,1,Low Crime
+2009,PUDUCHERRY,1,Low Crime
+2010,ANDHRA PRADESH,0,High Crime
+2010,ARUNACHAL PRADESH,1,Low Crime
+2010,ASSAM,2,Moderate Crime
+2010,BIHAR,2,Moderate Crime
+2010,CHHATTISGARH,2,Moderate Crime
+2010,GOA,1,Low Crime
+2010,GUJARAT,2,Moderate Crime
+2010,HARYANA,2,Moderate Crime
+2010,HIMACHAL PRADESH,1,Low Crime
+2010,JAMMU & KASHMIR,1,Low Crime
+2010,JHARKHAND,2,Moderate Crime
+2010,KARNATAKA,2,Moderate Crime
+2010,KERALA,2,Moderate Crime
+2010,MADHYA PRADESH,0,High Crime
+2010,MAHARASHTRA,0,High Crime
+2010,MANIPUR,1,Low Crime
+2010,MEGHALAYA,1,Low Crime
+2010,MIZORAM,1,Low Crime
+2010,NAGALAND,1,Low Crime
+2010,ODISHA,2,Moderate Crime
+2010,PUNJAB,1,Low Crime
+2010,RAJASTHAN,0,High Crime
+2010,SIKKIM,1,Low Crime
+2010,TAMIL NADU,2,Moderate Crime
+2010,TRIPURA,1,Low Crime
+2010,UTTAR PRADESH,0,High Crime
+2010,UTTARAKHAND,1,Low Crime
+2010,WEST BENGAL,0,High Crime
+2010,A & N ISLANDS,1,Low Crime
+2010,CHANDIGARH,1,Low Crime
+2010,D & N HAVELI,1,Low Crime
+2010,DAMAN & DIU,1,Low Crime
+2010,LAKSHADWEEP,1,Low Crime
+2010,PUDUCHERRY,1,Low Crime
+2011,Andhra Pradesh,0,High Crime
+2011,Arunachal Pradesh,1,Low Crime
+2011,Assam,2,Moderate Crime
+2011,Bihar,2,Moderate Crime
+2011,Chhattisgarh,1,Low Crime
+2011,Goa,1,Low Crime
+2011,Gujarat,2,Moderate Crime
+2011,Haryana,2,Moderate Crime
+2011,Himachal Pradesh,1,Low Crime
+2011,Jammu & Kashmir,1,Low Crime
+2011,Jharkhand,2,Moderate Crime
+2011,Karnataka,2,Moderate Crime
+2011,Kerala,2,Moderate Crime
+2011,Madhya Pradesh,0,High Crime
+2011,Maharashtra,0,High Crime
+2011,Manipur,1,Low Crime
+2011,Meghalaya,1,Low Crime
+2011,Mizoram,1,Low Crime
+2011,Nagaland,1,Low Crime
+2011,Odisha,2,Moderate Crime
+2011,Punjab,1,Low Crime
+2011,Rajasthan,0,High Crime
+2011,Sikkim,1,Low Crime
+2011,Tamil Nadu,2,Moderate Crime
+2011,Telangana,1,Low Crime
+2011,Tripura,1,Low Crime
+2011,Uttar Pradesh,0,High Crime
+2011,Uttarakhand,1,Low Crime
+2011,West Bengal,0,High Crime
+2011,A & N Islands,1,Low Crime
+2011,Chandigarh,1,Low Crime
+2011,D&N Haveli,1,Low Crime
+2011,Daman & Diu,1,Low Crime
+2011,Delhi UT,2,Moderate Crime
+2011,Lakshadweep,1,Low Crime
+2011,Puducherry,1,Low Crime
+2012,Andhra Pradesh,0,High Crime
+2012,Arunachal Pradesh,1,Low Crime
+2012,Assam,2,Moderate Crime
+2012,Bihar,2,Moderate Crime
+2012,Chhattisgarh,2,Moderate Crime
+2012,Goa,1,Low Crime
+2012,Gujarat,2,Moderate Crime
+2012,Haryana,2,Moderate Crime
+2012,Himachal Pradesh,1,Low Crime
+2012,Jammu & Kashmir,2,Moderate Crime
+2012,Jharkhand,2,Moderate Crime
+2012,Karnataka,2,Moderate Crime
+2012,Kerala,2,Moderate Crime
+2012,Madhya Pradesh,0,High Crime
+2012,Maharashtra,0,High Crime
+2012,Manipur,1,Low Crime
+2012,Meghalaya,1,Low Crime
+2012,Mizoram,1,Low Crime
+2012,Nagaland,1,Low Crime
+2012,Odisha,0,High Crime
+2012,Punjab,1,Low Crime
+2012,Rajasthan,0,High Crime
+2012,Sikkim,1,Low Crime
+2012,Tamil Nadu,2,Moderate Crime
+2012,Telangana,1,Low Crime
+2012,Tripura,1,Low Crime
+2012,Uttar Pradesh,0,High Crime
+2012,Uttarakhand,1,Low Crime
+2012,West Bengal,0,High Crime
+2012,A & N Islands,1,Low Crime
+2012,Chandigarh,1,Low Crime
+2012,D&N Haveli,1,Low Crime
+2012,Daman & Diu,1,Low Crime
+2012,Delhi UT,2,Moderate Crime
+2012,Lakshadweep,1,Low Crime
+2012,Puducherry,1,Low Crime
+2013,Andhra Pradesh,0,High Crime
+2013,Arunachal Pradesh,1,Low Crime
+2013,Assam,0,High Crime
+2013,Bihar,2,Moderate Crime
+2013,Chhattisgarh,2,Moderate Crime
+2013,Goa,1,Low Crime
+2013,Gujarat,2,Moderate Crime
+2013,Haryana,2,Moderate Crime
+2013,Himachal Pradesh,1,Low Crime
+2013,Jammu & Kashmir,2,Moderate Crime
+2013,Jharkhand,2,Moderate Crime
+2013,Karnataka,2,Moderate Crime
+2013,Kerala,2,Moderate Crime
+2013,Madhya Pradesh,0,High Crime
+2013,Maharashtra,0,High Crime
+2013,Manipur,1,Low Crime
+2013,Meghalaya,1,Low Crime
+2013,Mizoram,1,Low Crime
+2013,Nagaland,1,Low Crime
+2013,Odisha,0,High Crime
+2013,Punjab,2,Moderate Crime
+2013,Rajasthan,0,High Crime
+2013,Sikkim,1,Low Crime
+2013,Tamil Nadu,2,Moderate Crime
+2013,Telangana,1,Low Crime
+2013,Tripura,1,Low Crime
+2013,Uttar Pradesh,0,High Crime
+2013,Uttarakhand,1,Low Crime
+2013,West Bengal,0,High Crime
+2013,A & N Islands,1,Low Crime
+2013,Chandigarh,1,Low Crime
+2013,D&N Haveli,1,Low Crime
+2013,Daman & Diu,1,Low Crime
+2013,Delhi UT,0,High Crime
+2013,Lakshadweep,1,Low Crime
+2013,Puducherry,1,Low Crime
+2014,Andhra Pradesh,0,High Crime
+2014,Arunachal Pradesh,1,Low Crime
+2014,Assam,0,High Crime
+2014,Bihar,2,Moderate Crime
+2014,Chhattisgarh,2,Moderate Crime
+2014,Goa,1,Low Crime
+2014,Gujarat,2,Moderate Crime
+2014,Haryana,2,Moderate Crime
+2014,Himachal Pradesh,1,Low Crime
+2014,Jammu & Kashmir,1,Low Crime
+2014,Jharkhand,2,Moderate Crime
+2014,Karnataka,0,High Crime
+2014,Kerala,0,High Crime
+2014,Madhya Pradesh,0,High Crime
+2014,Maharashtra,0,High Crime
+2014,Manipur,1,Low Crime
+2014,Meghalaya,1,Low Crime
+2014,Mizoram,1,Low Crime
+2014,Nagaland,1,Low Crime
+2014,Odisha,0,High Crime
+2014,Punjab,2,Moderate Crime
+2014,Rajasthan,0,High Crime
+2014,Sikkim,1,Low Crime
+2014,Tamil Nadu,2,Moderate Crime
+2014,Telangana,0,High Crime
+2014,Tripura,1,Low Crime
+2014,Uttar Pradesh,0,High Crime
+2014,Uttarakhand,1,Low Crime
+2014,West Bengal,0,High Crime
+2014,A & N Islands,1,Low Crime
+2014,Chandigarh,1,Low Crime
+2014,D&N Haveli,1,Low Crime
+2014,Daman & Diu,1,Low Crime
+2014,Delhi UT,0,High Crime
+2014,Lakshadweep,1,Low Crime
+2014,Puducherry,1,Low Crime
+2015,Andhra Pradesh,0,High Crime
+2015,Arunachal Pradesh,1,Low Crime
+2015,Assam,0,High Crime
+2015,Bihar,2,Moderate Crime
+2015,Chhattisgarh,2,Moderate Crime
+2015,Goa,1,Low Crime
+2015,Gujarat,2,Moderate Crime
+2015,Haryana,2,Moderate Crime
+2015,Himachal Pradesh,1,Low Crime
+2015,Jammu & Kashmir,1,Low Crime
+2015,Jharkhand,2,Moderate Crime
+2015,Karnataka,0,High Crime
+2015,Kerala,2,Moderate Crime
+2015,Madhya Pradesh,0,High Crime
+2015,Maharashtra,0,High Crime
+2015,Manipur,1,Low Crime
+2015,Meghalaya,1,Low Crime
+2015,Mizoram,1,Low Crime
+2015,Nagaland,1,Low Crime
+2015,Odisha,0,High Crime
+2015,Punjab,2,Moderate Crime
+2015,Rajasthan,0,High Crime
+2015,Sikkim,1,Low Crime
+2015,Tamil Nadu,2,Moderate Crime
+2015,Telangana,0,High Crime
+2015,Tripura,1,Low Crime
+2015,Uttar Pradesh,0,High Crime
+2015,Uttarakhand,1,Low Crime
+2015,West Bengal,0,High Crime
+2015,A & N Islands,1,Low Crime
+2015,Chandigarh,1,Low Crime
+2015,D&N Haveli,1,Low Crime
+2015,Daman & Diu,1,Low Crime
+2015,Delhi UT,0,High Crime
+2015,Lakshadweep,1,Low Crime
+2015,Puducherry,1,Low Crime
+2016,Andhra Pradesh,0,High Crime
+2016,Arunachal Pradesh,1,Low Crime
+2016,Assam,0,High Crime
+2016,Bihar,2,Moderate Crime
+2016,Chhattisgarh,2,Moderate Crime
+2016,Goa,1,Low Crime
+2016,Gujarat,2,Moderate Crime
+2016,Haryana,0,High Crime
+2016,Himachal Pradesh,1,Low Crime
+2016,Jammu & Kashmir,1,Low Crime
+2016,Jharkhand,2,Moderate Crime
+2016,Karnataka,0,High Crime
+2016,Kerala,2,Moderate Crime
+2016,Madhya Pradesh,0,High Crime
+2016,Maharashtra,0,High Crime
+2016,Manipur,1,Low Crime
+2016,Meghalaya,1,Low Crime
+2016,Mizoram,1,Low Crime
+2016,Nagaland,1,Low Crime
+2016,Odisha,0,High Crime
+2016,Punjab,2,Moderate Crime
+2016,Rajasthan,0,High Crime
+2016,Sikkim,1,Low Crime
+2016,Tamil Nadu,1,Low Crime
+2016,Telangana,0,High Crime
+2016,Tripura,1,Low Crime
+2016,Uttar Pradesh,0,High Crime
+2016,Uttarakhand,1,Low Crime
+2016,West Bengal,0,High Crime
+2016,A & N Islands,1,Low Crime
+2016,Chandigarh,1,Low Crime
+2016,D&N Haveli,1,Low Crime
+2016,Daman & Diu,1,Low Crime
+2016,Delhi UT,0,High Crime
+2016,Lakshadweep,1,Low Crime
+2016,Puducherry,1,Low Crime
+2017,Andhra Pradesh,0,High Crime
+2017,Arunachal Pradesh,1,Low Crime
+2017,Assam,0,High Crime
+2017,Bihar,2,Moderate Crime
+2017,Chhattisgarh,2,Moderate Crime
+2017,Goa,1,Low Crime
+2017,Gujarat,2,Moderate Crime
+2017,Haryana,2,Moderate Crime
+2017,Himachal Pradesh,1,Low Crime
+2017,Jammu & Kashmir,1,Low Crime
+2017,Jharkhand,2,Moderate Crime
+2017,Karnataka,2,Moderate Crime
+2017,Kerala,2,Moderate Crime
+2017,Madhya Pradesh,0,High Crime
+2017,Maharashtra,0,High Crime
+2017,Manipur,1,Low Crime
+2017,Meghalaya,1,Low Crime
+2017,Mizoram,1,Low Crime
+2017,Nagaland,1,Low Crime
+2017,Odisha,0,High Crime
+2017,Punjab,1,Low Crime
+2017,Rajasthan,0,High Crime
+2017,Sikkim,1,Low Crime
+2017,Tamil Nadu,1,Low Crime
+2017,Telangana,0,High Crime
+2017,Tripura,1,Low Crime
+2017,Uttar Pradesh,0,High Crime
+2017,Uttarakhand,1,Low Crime
+2017,West Bengal,0,High Crime
+2017,A & N Islands,1,Low Crime
+2017,Chandigarh,1,Low Crime
+2017,D&N Haveli,1,Low Crime
+2017,Daman & Diu,1,Low Crime
+2017,Delhi UT,0,High Crime
+2017,Lakshadweep,1,Low Crime
+2017,Puducherry,1,Low Crime
+2018,Andhra Pradesh,0,High Crime
+2018,Arunachal Pradesh,1,Low Crime
+2018,Assam,0,High Crime
+2018,Bihar,2,Moderate Crime
+2018,Chhattisgarh,2,Moderate Crime
+2018,Goa,1,Low Crime
+2018,Gujarat,2,Moderate Crime
+2018,Haryana,2,Moderate Crime
+2018,Himachal Pradesh,1,Low Crime
+2018,Jammu & Kashmir,1,Low Crime
+2018,Jharkhand,2,Moderate Crime
+2018,Karnataka,2,Moderate Crime
+2018,Kerala,2,Moderate Crime
+2018,Madhya Pradesh,0,High Crime
+2018,Maharashtra,0,High Crime
+2018,Manipur,1,Low Crime
+2018,Meghalaya,1,Low Crime
+2018,Mizoram,1,Low Crime
+2018,Nagaland,1,Low Crime
+2018,Odisha,0,High Crime
+2018,Punjab,2,Moderate Crime
+2018,Rajasthan,0,High Crime
+2018,Sikkim,1,Low Crime
+2018,Tamil Nadu,1,Low Crime
+2018,Telangana,0,High Crime
+2018,Tripura,1,Low Crime
+2018,Uttar Pradesh,0,High Crime
+2018,Uttarakhand,1,Low Crime
+2018,West Bengal,0,High Crime
+2018,A & N Islands,1,Low Crime
+2018,Chandigarh,1,Low Crime
+2018,D&N Haveli,1,Low Crime
+2018,Daman & Diu,1,Low Crime
+2018,Delhi UT,0,High Crime
+2018,Lakshadweep,1,Low Crime
+2018,Puducherry,1,Low Crime
+2019,Andhra Pradesh,0,High Crime
+2019,Arunachal Pradesh,1,Low Crime
+2019,Assam,0,High Crime
+2019,Bihar,2,Moderate Crime
+2019,Chhattisgarh,2,Moderate Crime
+2019,Goa,1,Low Crime
+2019,Gujarat,2,Moderate Crime
+2019,Haryana,2,Moderate Crime
+2019,Himachal Pradesh,1,Low Crime
+2019,Jammu & Kashmir,1,Low Crime
+2019,Jharkhand,2,Moderate Crime
+2019,Karnataka,2,Moderate Crime
+2019,Kerala,2,Moderate Crime
+2019,Madhya Pradesh,0,High Crime
+2019,Maharashtra,0,High Crime
+2019,Manipur,1,Low Crime
+2019,Meghalaya,1,Low Crime
+2019,Mizoram,1,Low Crime
+2019,Nagaland,1,Low Crime
+2019,Odisha,0,High Crime
+2019,Punjab,2,Moderate Crime
+2019,Rajasthan,0,High Crime
+2019,Sikkim,1,Low Crime
+2019,Tamil Nadu,1,Low Crime
+2019,Telangana,0,High Crime
+2019,Tripura,1,Low Crime
+2019,Uttar Pradesh,0,High Crime
+2019,Uttarakhand,1,Low Crime
+2019,West Bengal,0,High Crime
+2019,A & N Islands,1,Low Crime
+2019,Chandigarh,1,Low Crime
+2019,D&N Haveli,1,Low Crime
+2019,Daman & Diu,1,Low Crime
+2019,Delhi UT,2,Moderate Crime
+2019,Lakshadweep,1,Low Crime
+2019,Puducherry,1,Low Crime
+2020,Andhra Pradesh,0,High Crime
+2020,Arunachal Pradesh,1,Low Crime
+2020,Assam,0,High Crime
+2020,Bihar,2,Moderate Crime
+2020,Chhattisgarh,2,Moderate Crime
+2020,Goa,1,Low Crime
+2020,Gujarat,1,Low Crime
+2020,Haryana,2,Moderate Crime
+2020,Himachal Pradesh,1,Low Crime
+2020,Jammu & Kashmir,2,Moderate Crime
+2020,Jharkhand,2,Moderate Crime
+2020,Karnataka,2,Moderate Crime
+2020,Kerala,0,High Crime
+2020,Madhya Pradesh,0,High Crime
+2020,Maharashtra,1,Low Crime
+2020,Manipur,1,Low Crime
+2020,Meghalaya,1,Low Crime
+2020,Mizoram,1,Low Crime
+2020,Nagaland,0,High Crime
+2020,Odisha,1,Low Crime
+2020,Punjab,0,High Crime
+2020,Rajasthan,1,Low Crime
+2020,Sikkim,1,Low Crime
+2020,Tamil Nadu,0,High Crime
+2020,Telangana,1,Low Crime
+2020,Tripura,0,High Crime
+2020,Uttar Pradesh,1,Low Crime
+2020,Uttarakhand,0,High Crime
+2020,West Bengal,1,Low Crime
+2020,A & N Islands,1,Low Crime
+2020,Chandigarh,1,Low Crime
+2020,D&N Haveli,2,Moderate Crime
+2020,Daman & Diu,1,Low Crime
+2020,Delhi UT,1,Low Crime
+2020,Lakshadweep,1,Low Crime
+2020,Puducherry,1,Low Crime
+2021,Andhra Pradesh,0,High Crime
+2021,Arunachal Pradesh,1,Low Crime
+2021,Assam,0,High Crime
+2021,Bihar,2,Moderate Crime
+2021,Chhattisgarh,2,Moderate Crime
+2021,Goa,1,Low Crime
+2021,Gujarat,1,Low Crime
+2021,Haryana,0,High Crime
+2021,Himachal Pradesh,1,Low Crime
+2021,Jammu & Kashmir,2,Moderate Crime
+2021,Jharkhand,2,Moderate Crime
+2021,Karnataka,2,Moderate Crime
+2021,Kerala,0,High Crime
+2021,Madhya Pradesh,0,High Crime
+2021,Maharashtra,1,Low Crime
+2021,Manipur,1,Low Crime
+2021,Meghalaya,1,Low Crime
+2021,Mizoram,1,Low Crime
+2021,Nagaland,0,High Crime
+2021,Odisha,2,Moderate Crime
+2021,Punjab,0,High Crime
+2021,Rajasthan,1,Low Crime
+2021,Sikkim,1,Low Crime
+2021,Tamil Nadu,0,High Crime
+2021,Telangana,1,Low Crime
+2021,Tripura,0,High Crime
+2021,Uttar Pradesh,1,Low Crime
+2021,Uttarakhand,0,High Crime
+2021,West Bengal,1,Low Crime
+2021,A & N Islands,1,Low Crime
+2021,Chandigarh,1,Low Crime
+2021,D&N Haveli,2,Moderate Crime
+2021,Daman & Diu,1,Low Crime
+2021,Delhi UT,1,Low Crime
+2021,Lakshadweep,1,Low Crime
+2021,Puducherry,1,Low Crime
